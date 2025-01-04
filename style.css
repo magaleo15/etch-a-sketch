@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+}
+
+.test {
+  width: 10px;
+  height: 10px;
+  border: 1px solid black;
+}
+/* flexbox to set the amount of grid squares per width they should grow and shrink */
